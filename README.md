@@ -12,3 +12,8 @@ Primeiramente é preciso DITAR: todo o trabalho com o Git/GitHub precisa estar e
 
 ## Siga padrões já estabelecidos
 Não seja rebelde, não reivente a roda. Se o projeto que você começou a trabalhar já tem um **padrão definido** e bem estruturado, não há razão para mudanças drásticas. Se o projeto já tem tempos de vivência, significa que o padrão atual já dá conta do recado.
+
+## Commit a cada mudança
+O ideal para manter tudo bem versionado é, para cada mudança, um commit. Seja adição de nova funcionalidade, correção de bug ou até remoção de uma funcionalidade antigo.
+
+Isso não só é necessário para o processo de **deploy** da aplicação para mudanças necessárias, mas nos dá a facilidade de usar uma das principais funcionalidades do versionamento: retroceder ao código antes do commit indicado.
