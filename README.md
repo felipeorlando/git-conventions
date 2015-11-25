@@ -18,5 +18,5 @@ O ideal para manter tudo bem versionado é, para cada mudança, um commit. Seja 
 
 Isso não só é necessário para o processo de **deploy** da aplicação para mudanças necessárias, mas nos dá a facilidade de usar uma das principais funcionalidades do versionamento: retroceder ao código antes do commit indicado. 
 
-## :traffic_light: Pense CRUD
+## :traffic_light: Sitaxe é o segredo para o sucesso
 ...
