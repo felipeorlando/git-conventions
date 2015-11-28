@@ -23,4 +23,8 @@ Ao lidarmos com versionamento, o mais importante não é o software, mas sim a e
 
 Temos que lidar com **commits** e **merges** descrevendo nossas ações, de forma compreensíva até mesmo para alguém completamente leigo na área de TI.
 
-<!-- *Suponhamos* que você começou a trabalhar num projeto ENORME e precisa saber quando uma funcionalidade específica foi atualizada... são MILHARES de commits e você delegou esta tarefa para o mais inexperiente estagiário da empresa. Por falta de tempo, não pôde explicar nada ao promissor garoto, porém é preciso que ele dê um res -->
+### Commits
+...
+
+### Merges
+...
