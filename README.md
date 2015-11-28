@@ -19,4 +19,8 @@ O ideal para manter tudo bem versionado é, para cada mudança, um commit. Seja 
 Isso não só é necessário para o processo de **deploy** da aplicação para mudanças necessárias, mas nos dá a facilidade de usar uma das principais funcionalidades do versionamento: retroceder ao código antes do commit indicado. 
 
 ## :traffic_light: Sitaxe é o segredo para o sucesso
-...
+Ao lidarmos com versionamento, o mais importante não é o software, mas sim a equipe por trás do desenvolvimento dele. E é válido lembrar que esta equipe é composta por humanos. Precisamos não só humanizar nosso software, nosso código mas também nosso processo de trabalho **por inteiro**.
+
+Temos que lidar com **commits** e **merges** descrevendo nossas ações, de forma compreensíva até mesmo para alguém completamente leigo na área de TI.
+
+<!-- *Suponhamos* que você começou a trabalhar num projeto ENORME e precisa saber quando uma funcionalidade específica foi atualizada... são MILHARES de commits e você delegou esta tarefa para o mais inexperiente estagiário da empresa. Por falta de tempo, não pôde explicar nada ao promissor garoto, porém é preciso que ele dê um res -->
