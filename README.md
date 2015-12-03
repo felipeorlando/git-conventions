@@ -34,6 +34,10 @@ Todo commit deve começar com este verbo, seguido da(s) alteração(ões) feita(
 
 `git commit -m "Create comments migration"`
 
+O mais interessante ainda, seria fazer este commit após a criação da migration e do model. Assim, unificamos um commit para criação tanto do database, quanto do model:
+
+`git commit -m "Create comments migration and Comment model"`
+
 - **Create:** Lorem...
 - **Update:** Lorem...
 - **Remove:** Lorem...
