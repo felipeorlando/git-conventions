@@ -32,6 +32,8 @@ Cada ação significativa realizada no código deve ser tratada como uma ação,
 
 Todo commit deve começar com este verbo, seguido da(s) alteração(ões) feita(s) – apesar do singular, dê prioridade por fazer commit a cada alteração no sistema, seja uma adicão, atualização, remoção.
 
+Alguns dos verbos que costumo usar bastante são: **add, create, update, edit, remove**.
+
 **Exemplo:** Em um projeto onde teremos comentários e trabalharemos com algum framework MVC, ao criarmos uma migration para os comentários, podemos fazer o seguinte commit:
 
 ```
@@ -43,11 +45,6 @@ O mais interessante ainda, seria fazer este commit após a criação da migratio
 ```
 git commit -m "Create comments migration and Comment model"
 ```
-
-- **Create:** Lorem...
-- **Update:** Lorem...
-- **Remove:** Lorem...
-- **Wathever:** Lorem...
 
 ### Merges
 ...
