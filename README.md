@@ -7,6 +7,8 @@ Todo bom programador descobre cedo que é preciso padronizar seu workflow. Seja 
 
 E trabalhar com Git muitas vezes significa trabalhar em equipe. E nisso ele é uma mão na roda! Porém também é preciso criar um padrão para que a equipe possa sempre ser performática.
 
+Porém, antes de começar, precisamos analisar o projeto em que estamos trabalhando. **As soluções descritas aqui não são balas de prata**!
+
 ## :us: Yes, we can! And we must!
 Primeiramente é preciso DITAR: todo o trabalho com o Git/GitHub precisa estar escrito em inglês. Sem mais, nem menos. Esse é o primeiro passo. Afinal, você não escreve seu código em português (ao menos não deveria).
 
@@ -24,7 +26,11 @@ Ao lidarmos com versionamento, o mais importante não é o software, mas sim a e
 Temos que lidar com **commits** e **merges** descrevendo nossas ações, de forma compreensíva até mesmo para alguém completamente leigo na área de TI.
 
 ### Commits
-...
+**Add:** Lorem...
+**Update:** Lorem...
+**Remove:** Lorem...
+**Wathever:** Lorem...
 
 ### Merges
 ...
+
