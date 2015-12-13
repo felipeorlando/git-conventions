@@ -46,6 +46,8 @@ O mais interessante ainda, seria fazer este commit após a criação da migratio
 git commit -m "Create comments migration and Comment model"
 ```
 
+Obs: É bom notar nos dois exemplos o início da mesnagem com letra maiúscula. Como eu disse: padrões são necessários... inclusive os pequenos detalhes.
+
 A ideia não é fazer nem muitos e nem poucos commits. Muitos commits tornam o "changelog" do projeto sujo e grande. Poucos não mantém o projeto devidamente atualizado com atualizações primordiais do projeto e não beneficia no workflow quando se trabalha com **integração contínua**.
 
 ### Merges
