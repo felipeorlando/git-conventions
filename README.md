@@ -51,5 +51,9 @@ Obs: É bom notar nos dois exemplos o início da mesnagem com letra maiúscula. 
 A ideia não é fazer nem muitos e nem poucos commits. Muitos commits tornam o "changelog" do projeto sujo e grande. Poucos não mantém o projeto devidamente atualizado com atualizações primordiais do projeto e não beneficia no workflow quando se trabalha com **integração contínua**.
 
 ### Merges
-...
+O conceito de merge é extremamente simples. Simples assim! Não há o porquê complicar, pois não é uma cilada, Bino. :laughing:
+
+A nomeclatura de um merge deve ser simples e coesa, condizendo com o motivo daquele merge. Mais específicamente, indicar a ação realizada naquele merge logo no início.
+
+É comum usar **fix**, **add**, **remove**, **refactoring**.
 
