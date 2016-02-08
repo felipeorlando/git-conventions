@@ -1,3 +1,5 @@
+![Git Convention Cover](https://raw.githubusercontent.com/felinalabs/git-conventions/master/cover.png)
+
 :octocat: Git Convention
 ==============
 
