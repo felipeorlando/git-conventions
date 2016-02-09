@@ -52,9 +52,9 @@ Obs: É bom notar nos dois exemplos o início da mensagem com letra maiúscula. 
 
 A ideia não é fazer nem muitos e nem poucos commits. Muitos commits tornam o "changelog" do projeto sujo e grande. Poucos não mantém o projeto devidamente atualizado com atualizações primordiais do projeto e não beneficia no workflow quando se trabalha com **integração contínua**.
 
-Outro grande ponto que atingimos é A PAUSA, o momento em que nosso trabalho precisa de um hiato para dormirmos, comermos, sairmo ou **tomar um café** :coffee:. Nessas horas, podemos estabelecer nosso trabalho em partes, usando os números que a matemática nandertal nos provém: 1, 2, 3, 4...
+Outro ponto que podemos atingir é a necessidadede de uma PAUSA, o momento em que nosso trabalho precisa de um hiato para dormirmos, comermos, sairmos ou **tomar um café** :coffee:. Nessas horas, podemos estabelecer nosso trabalho em partes, usando os números que a matemática nandertal nos provém: 1, 2, 3, 4...
 
-**Exemplo:** Estou lá eu, resolvendo uma awesome feature quando o meu ~~combustível~~ café e percebo que preciso ir comprar mais, do outro lado da cidade... Lá vou eu, mas antes, vou commitar para não perder nada! Então, como sei que parei na metade do caminho, vou dar um commit enumerado:
+**Exemplo:** Estou lá eu, resolvendo uma awesome feature quando o meu ~~combustível~~ café e percebo que preciso ir comprar mais, do outro lado da cidade... Lá vou eu, mas antes vou commitar para não perder nada! Então, como sei que parei na metade do caminho, vou dar um commit enumerado:
 
 ```
 git commit -m "Add awesome feature #1"
