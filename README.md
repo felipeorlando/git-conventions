@@ -1,6 +1,6 @@
-![Git Convention Cover](https://raw.githubusercontent.com/felinalabs/git-conventions/master/cover.png)
+![Git Conventions Cover](https://raw.githubusercontent.com/felinalabs/git-conventions/master/cover.png)
 
-:octocat: Git Convention
+:octocat: Git Conventions
 ==============
 
 Todos nós, desenvolvedores, trabalhamos com versionamento. E grande parte de nós optamos por trabalhar com Git, por sua popularidade e facilidade de aprendizagem.
