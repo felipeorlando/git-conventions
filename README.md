@@ -12,6 +12,8 @@
 </p>
 
 
+<p align="center">Em construção...</p>
+
 
 Todos nós, desenvolvedores, trabalhamos com versionamento. E grande parte de nós optamos por trabalhar com Git, por sua popularidade e facilidade de aprendizagem.
 
