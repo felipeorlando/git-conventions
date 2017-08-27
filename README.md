@@ -29,10 +29,10 @@ Porém, antes de começar, precisamos analisar o projeto em que estamos trabalha
 Primeiramente é preciso DITAR: todo o trabalho com o Git/GitHub precisa estar escrito em inglês. Sem mais, nem menos. Esse é o primeiro passo. Afinal, você não escreve seu código em português (ao menos não deveria).
 
 ## :recycle: Siga padrões já estabelecidos
-Não seja rebelde, não reivente a roda. Se o projeto que você começou a trabalhar já tem um **padrão definido** e bem estruturado, não há razão para mudanças drásticas. Se o projeto já tem tempos de vivência, significa que o padrão atual já dá conta do recado.
+Não seja rebelde, não reinvente a roda. Se o projeto que você começou a trabalhar já tem um **padrão definido** e bem estruturado, não há razão para mudanças drásticas. Se o projeto já tem tempos de vivência, significa que o padrão atual já dá conta do recado.
 
 ## :rocket: Commit a cada mudança
-O ideal para manter tudo bem versionado é, para cada mudança, um commit. Seja adição de nova funcionalidade, correção de bug ou até remoção de uma funcionalidade antigo.
+O ideal para manter tudo bem versionado é, para cada mudança, um commit. Seja adição de nova funcionalidade, correção de bug ou até remoção de uma funcionalidade antiga.
 
 Isso não só é necessário para o processo de **deploy** da aplicação para mudanças necessárias, mas nos dá a facilidade de usar uma das principais funcionalidades do versionamento: retroceder ao código antes do commit indicado. 
 
@@ -44,7 +44,7 @@ Temos que lidar com **commits** e **merges** descrevendo nossas ações, de form
 ### Commits
 Cada ação significativa realizada no código deve ser tratada como uma ação, um **verbo**. A mensagem dos commits deve ser direta, compreensíva porém breve.
 
-Todo commit deve começar com este verbo, seguido da(s) alteração(ões) feita(s) – apesar do singular, dê prioridade por fazer commit a cada alteração no sistema, seja uma adicão, atualização, remoção.
+Todo commit deve começar com um verbo, seguido da(s) alteração(ões) feita(s) – apesar do singular, dê prioridade por fazer commit a cada alteração no sistema, seja uma adicão, atualização, remoção.
 
 Alguns dos verbos que costumo usar bastante são: **add, create, update, edit, remove**.
 
@@ -57,14 +57,14 @@ git commit -m "Create comments migration"
 O mais interessante ainda, seria fazer este commit após a criação da migration e do model. Assim, unificamos um commit para criação tanto do database, quanto do model:
 
 ```
-git commit -m "Create comments migration and Comment model"
+git commit -m "Create comments migration and comment model"
 ```
 
 Obs: É bom notar nos dois exemplos o início da mensagem com letra maiúscula. Como eu disse: padrões são necessários... inclusive os pequenos detalhes.
 
 A ideia não é fazer nem muitos e nem poucos commits. Muitos commits tornam o "changelog" do projeto sujo e grande. Poucos não mantém o projeto devidamente atualizado com atualizações primordiais do projeto e não beneficia no workflow quando se trabalha com **integração contínua**.
 
-Outro ponto que podemos atingir é a necessidadede de uma PAUSA, o momento em que nosso trabalho precisa de um hiato para dormirmos, comermos, sairmos ou **tomar um café** :coffee:. Nessas horas, podemos estabelecer nosso trabalho em partes, usando os números que a matemática nandertal nos provém: 1, 2, 3, 4...
+Outro ponto que podemos atingir é a necessidadede de uma PAUSA, o momento em que nosso trabalho precisa de um hiato para dormirmos, comermos, sairmos ou **tomar um café** :coffee:. Nessas horas, podemos estabelecer nosso trabalho em partes, usando os números que a matemática neandertal nos provém: 1, 2, 3, 4...
 
 **Exemplo:** Estou lá eu, resolvendo uma awesome feature quando o meu ~~combustível~~ café e percebo que preciso ir comprar mais, do outro lado da cidade... Lá vou eu, mas antes vou commitar para não perder nada! Então, como sei que parei na metade do caminho, vou dar um commit enumerado:
 
