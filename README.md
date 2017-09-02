@@ -57,7 +57,7 @@ git commit -m "Create comments migration"
 O mais interessante ainda, seria fazer este commit após a criação da migration e do model. Assim, unificamos um commit para criação tanto do database, quanto do model:
 
 ```
-git commit -m "Create comments migration and comment model"
+git commit -m "Create comments migration and Comment model"
 ```
 
 Obs: É bom notar nos dois exemplos o início da mensagem com letra maiúscula. Como eu disse: padrões são necessários... inclusive os pequenos detalhes.
