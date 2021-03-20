@@ -8,12 +8,13 @@
 </h1>
 
 <p align="center">
-	<img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">
+	:warning:<br><strong>ATENÇÃO</strong>
+</p>
+<p align="center">
+	Esse repo foi feito há anos atrás, agora está discontunuado. Recomendo seguirem o <a href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank">Conventional Commits</a>.
 </p>
 
-
-<p align="center">Em construção...</p>
-
+---
 
 Todos nós, desenvolvedores, trabalhamos com versionamento. E grande parte de nós optamos por trabalhar com Git, por sua popularidade e facilidade de aprendizagem.
 
