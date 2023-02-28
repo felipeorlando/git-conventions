@@ -11,7 +11,7 @@
 	:warning:<br><strong>ATENÇÃO</strong>
 </p>
 <p align="center">
-	Esse repo foi feito há anos atrás, agora está discontunuado. Recomendo seguirem o <a href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank">Conventional Commits</a>.
+	Esse repositório foi feito há anos atrás, agora está descontinuado. Recomendo seguirem o <a href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank">Conventional Commits</a>.
 </p>
 
 ---
